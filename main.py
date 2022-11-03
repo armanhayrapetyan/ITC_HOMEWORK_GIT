@@ -11,3 +11,9 @@ def NewBranch():
     print("New Branch")
 
 NewBranch()
+
+
+def FirstBranch():
+    print("First Branch")
+
+FirstBranch()
