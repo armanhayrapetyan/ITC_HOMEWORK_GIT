@@ -6,3 +6,14 @@ def SecondCommit():
     print("Second Commit")
 
 SecondCommit()
+
+def NewBranch():
+    print("New Branch")
+
+NewBranch()
+
+
+def FirstBranch():
+    print("First Branch")
+
+FirstBranch()
